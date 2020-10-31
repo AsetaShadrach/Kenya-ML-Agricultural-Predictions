@@ -10,7 +10,7 @@
   * Other countries supply/demand of certain products will affect the quantitity we can export or import
   * Political policies/allegiances, friendship ties
   
-- I predicted a final result from data i had predicted(to fill the values) hence this might have amplified the error
+- I predicted a final result from data I had predicted(to fill the values) hence this might have amplified the error
 
 
 
