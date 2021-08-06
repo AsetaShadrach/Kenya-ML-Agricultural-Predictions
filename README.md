@@ -14,7 +14,8 @@
   
 - I predicted a final result from data I had predicted(to fill the values) hence this might have amplified the error
 
-
-
 ### Any recomendations on what/how to improve the model are highly appreciated  
+
+### The "... Prediction redone" Notebook builds on the initial one with addition of classes.
+
  
